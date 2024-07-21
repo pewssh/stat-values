@@ -1,0 +1,64 @@
+## Case :> 3:1 [Normal Scenario]
+
+with increase of data parity expantion time taken reduced 
+with increase and data , parity size shows uniform across cases.
+
+
+
+
+## Case:> 1:4
+Inconsistet behaviour as well 
+similar to 1:2 for 
+[filesize: 200MB]
+total = 2:8 [10] -> 6.44 seconds, 3:12 [15] -> 8.66 seconds
+
+Another Case 
+[4:1]
+
+shows uniform decline in time with except for case for 8:2 and 12:3 where 
+time difference is quite less but opposite. [for all file size]
+
+
+## Case :> 1:5
+Uniform decline in time with increase in data and parity shards
+
+
+
+## Case :> 6:1
+
+Uniform except for one with minor difference of 2.12 and 2.13 seconds 
+
+
+6,1,500.0,2.1205912828445435seconds
+12,2,500.0,2.1363973021507263seconds
+
+
+## Case :> 7:1
+
+Uniform except for one case for 500MB file
+
+7,1,500.0,1.9571385085582733seconds
+14,2,500.0,2.0000782310962677seconds
+
+
+
+## Case :> 8:1
+Not uniform for 800 and 1024 MB file
+
+    8,1,800.0,2.828899562358856seconds
+    16,2,800.0,2.8525257110595703seconds
+
+    8,1,1024.0,3.4248104095458984seconds
+    16,2,1024.0,3.449065148830414seconds
+
+
+## Case :> 9:1
+
+Non uniform cases
+
+9,1,400.0,1.5557999014854431seconds
+18,2,400.0,1.7563691139221191seconds
+
+
+9,1,800.0,2.7735670804977417seconds
+18,2,800.0,2.8085466027259827seconds

@@ -1,0 +1,22 @@
+## Case :> 1:3 [Normal Scenario]
+
+with increase of data parity expantion time taken reduced 
+with increase and data , parity size 
+ shows uniform across cases.
+
+
+
+## Case:> 1:4
+Inconsistet behaviour as well 
+similar to 1:2 for 
+[filesize: 200MB]
+total = 2:8 [10] -> 6.44 seconds, 3:12 [15] -> 8.66 seconds
+
+Another Case 
+[filesize: 800 MB]
+3:12 -> 19 seconds  2:8  -> 17 seconds
+
+
+## Case :> 1:5
+
+
