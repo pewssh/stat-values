@@ -19,4 +19,10 @@ Another Case
 
 ## Case :> 1:5
 
+Uniform decline  with increase in data parity shards
+
+
+## Case:> 1:6
+
+
 
