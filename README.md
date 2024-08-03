@@ -7,3 +7,6 @@ naming_convention benchmark{data}-{parity}-{min_blobbers}, images{data}-{parity}
 
 
 # v3 run when changed zboxcli for limit parameter to test if it works July 30 as well 
+
+
+# v4 updating the upload mode with high mode.
